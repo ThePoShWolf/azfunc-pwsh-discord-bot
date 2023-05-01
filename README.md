@@ -15,9 +15,9 @@ If you have questions or trouble getting this to work, feel free to open an issu
 1. Create a Discord Application in the [Discord Developer portal](https://discord.com/developers)
 2. Add a bot to your Discord Application
 3. Create a URL with at least the following permissions:
-  1. bot
-  2. application.commands
-  3. bot\Send Messages
+    1. bot
+    2. application.commands
+    3. bot\Send Messages
 4. Navigate to that URL using your browser and add the bot to your server.
 5. Copy the Public Key
 
