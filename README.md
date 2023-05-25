@@ -38,7 +38,7 @@ You will not be able to save unless you have the function app configured properl
 
 ### Add commands
 
-Using the [Discord.NET.PowerShell](https://github.com/theposhwolf/discord.net.powershell) module:
+Using the [Discordant](https://github.com/theposhwolf/discordant) module:
 
 ```powershell
 # Authenticate with bot token (from Discord dev portal):
